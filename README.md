@@ -11,18 +11,15 @@
 On this project we learn how to manage some networks given different ­interfaces such as routers, computers and Switch. 
 I use this videos to learn the basics of IP adress and subnetting : https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared. 
 
-## Level 1
 <details>
-  <summary>Level 1</summary>
-  <br>
-  <img src="https://github.com/user-attachments/assets/ee9041a6-5be1-42ca-b4bf-188159af3b29" alt="level1">  
-  <br>
-  <br>
-- host b and host a are on the same network. Since the IP for B1 is 104.96.23.12 and the sub-net mask is 255.255.255.0 I have 252 IP available. From 104.96.23.1 to 104.96.23.254.<br>
-- host d and host c are on the same network. Since the IP for C1  is 211.191.234.75 and the sub-net mask is 255.255.0.0 we have 503 IP available.
-<div align="right">
-  <b><a href="#top">↥ back to top</a></b>
-</div>
+    <summary>Level 1</summary>
+    <br>
+    <img src="https://github.com/user-attachments/assets/ee9041a6-5be1-42ca-b4bf-188159af3b29" alt="level1"><br>
+    - host b and host a are on the same network. Since the IP for B1 is 104.96.23.12 and the sub-net mask is 255.255.255.0 I have 252 IP available. From 104.96.23.1 to 104.96.23.254.<br>
+    - host d and host c are on the same network. Since the IP for C1  is 211.191.234.75 and the sub-net mask is 255.255.0.0 we have 503 IP available.
+  <div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+  </div>
     </br>
 </details>
 
