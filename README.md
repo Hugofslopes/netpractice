@@ -1,13 +1,13 @@
 <html>
-    <p align="center">
-        <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png" alt="Pipex Image" />
-    </p>
-    <h1 align="center">netpractice</h1>
-    <p align="center">
-        <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" width="165" alt="Image" />
-    </p>
+  <p align="center">
+      <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png" alt="Pipex Image" />
+  </p>
+  <h1 align="center">netpractice</h1>
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" width="165" alt="Image" />
+  </p>
 
-    <style>
+  <style>
       #top {
             position: absolute;
             top: 0;
