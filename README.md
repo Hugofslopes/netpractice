@@ -22,40 +22,6 @@ I use this videos to learn the basics of IP adress and subnetting : https://yout
     </div>
     </br>
 </details>
-
-
-<details>
-  <summary>Level 1</summary>
-  <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level1_paint.png?raw=true" alt="level1">  
-  <br>
-  <br>
-
-**1.** Since _Client A_ and _Client B_ are on the same network, their IP address must represent the same network in accordance with the subnet mask.
-<br>
-The subnet mask is _255.255.255.0_, which means that the first 3 bytes of the IP address represent the network, and the 4th byte represents the host. Since we are on the same network, only the host can change.
-<br>
-The solution will be anything in the range of **104.96.23.0 - 104.96.23.255** excluding the following 3:
-
-- **104.96.23.0:** The first number in the range of hosts (0 in this case) represents the network and cannot be used by a host.
-- **104.96.23.255:** The last number in the range of hosts (255 in this case) represents the broadcast address.
-- **104.96.23.12:** This address is already used by the host _Client B_.
-
-**2.** The same reasoning as _1._, however the subnet mask is _255.255.0.0_ in this case. The first 2 bytes of the IP address will represent the network; and the last 2 bytes, the host address.
-<br>
-The solution will be anything in the range of **211.191.0.0 - 211.191.255.255**, excluding:
-
-- **211.191.0.0:** Represents the network address.
-- **211.191.255.255:** Represents the broadcast address.
-- **211.191.89.75:** Already taken by host _Client C_.
-
-<div align="right">
-  <b><a href="#top">↥ back to top</a></b>
-</div>
-</br>
-
-</details>
-
 ---
 
 ## Level 2
