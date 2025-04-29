@@ -1,17 +1,10 @@
 <html>
-
   <p align="center">
-
       <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png" alt="Pipex Image" />
-
   </p>
-
   <h1 align="center">netpractice</h1>
-
   <p align="center">
-
-      <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" width="165" alt="Image" />
-
+      <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" alt="Image" />
   </p>
 
 
@@ -21,28 +14,16 @@ I use these videos to learn the basics of IP addresses and subnetting: [YouTube 
 
 
 <details>
-
     <summary>Level 1</summary>
-
     <br>
-
     <img src="https://github.com/user-attachments/assets/ee9041a6-5be1-42ca-b4bf-188159af3b29" alt="level1"><br>
-
     - Host B and Host A are on the same network. Since the IP for B1 is 104.96.23.12 and the subnet mask is 255.255.255.0, I have 252 IPs available, from 104.96.23.1 to 104.96.23.254.<br>
-
     - Host D and Host C are on the same network. Since the IP for C1 is 211.191.234.75 and the subnet mask is 255.255.0.0, we have 65,534 IPs available.
-
     <div align="center">
-
       <b><a href="#top">↥ back to top</a></b>
-
     </div>
-
     <br>
-
 </details>
-
-
 <a id="top"></a>
 
 ## Level 2
