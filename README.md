@@ -12,6 +12,7 @@ On this project we learn how to manage some networks given different interfaces 
 
 I use these videos to learn the basics of IP addresses and subnetting: [YouTube Playlist](https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared). 
 
+<a id="top"></a>
 
 <details>
     <summary>Level 1</summary>
@@ -24,7 +25,7 @@ I use these videos to learn the basics of IP addresses and subnetting: [YouTube 
     </div>
     <br>
 </details>
-<a id="top"></a>
+
 
 ## Level 2
 - host B and host A are on the same network. This network as 28 IP addresses since its mask is 255.255.255.224. So it as from 192.168.82.193 up to 192.168.82.222.
