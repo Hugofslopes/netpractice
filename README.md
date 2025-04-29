@@ -6,13 +6,13 @@
     <p align="center">
         <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" width="165" alt="Image" />
     </p>
-</html>
- <style>
-#top {
+
+    <style>
+      #top {
             position: absolute;
             top: 0;
         }
- </style>
+    </style>
 
 On this project we learn how to manage some networks given different ­interfaces such as routers, computers and Switch. 
 I use this videos to learn the basics of IP adress and subnetting : https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared. 
@@ -60,3 +60,4 @@ The routing table on the Host A  does exactly the same as the one on the top , b
 
 ## Level 10
 - I start from the right top corner which I already have the IP for H11. I use the sub-net mask from R11 for H21 and H11. Then I go to the Internet on the left corner which I need to have has destination all the IP on the 169.237.48.0 range. The R13  sub-net mask is the same as R21. The IP for R23 is already defined on the H4 routing table. Then I just use the mask from H41. For R22 and R31  I use 193 and 194. On R11 I have 128 IP reserved 0 to 127 . Then I Have 63 IP reserved on H41 128 to 191. The other range available will start on 193 (since we can not use the 192).
+</html>
