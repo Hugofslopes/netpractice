@@ -7,6 +7,12 @@
         <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" width="165" alt="Image" />
     </p>
 </html>
+ <style>
+#top {
+            position: absolute;
+            top: 0;
+        }
+ </style>
 
 On this project we learn how to manage some networks given different ­interfaces such as routers, computers and Switch. 
 I use this videos to learn the basics of IP adress and subnetting : https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared. 
