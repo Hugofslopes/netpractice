@@ -31,7 +31,7 @@ I use these videos to learn the basics of IP addresses and subnetting: [YouTube 
     <summary>Level 3</summary>
     <br>
     <img src="https://github.com/user-attachments/assets/d5e5c813-2a00-469c-ab8a-301aa41117b3" alt="level1"><br>
-    - <b>Host B</b>, <b>Host A</b> and Host C are on the same network thanks to the switch. We keep the same sub-net mask since they are on the same network. Than we have a range of 124 IP available. From 104.198.102.1 to 104.198.102.126.<br>
+    - <b>Host B</b>, <b>Host A</b> and <b>Host C</b> are on the same network thanks to the switch. We keep the same sub-net mask since they are on the same network. Than we have a range of 124 IP available. From 104.198.102.1 to 104.198.102.126.<br>
 </details>
 
 <details>
