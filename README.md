@@ -15,8 +15,8 @@ I use these videos to learn the basics of IP addresses and subnetting: [YouTube 
     <summary>Level 1</summary>
     <br>
     <img src="https://github.com/user-attachments/assets/ee9041a6-5be1-42ca-b4bf-188159af3b29" alt="level1"><br>
-    - Host B and Host A are on the same network. Since the IP for B1 is 104.96.23.12 and the subnet mask is 255.255.255.0, I have 252 IPs available, from 104.96.23.1 to 104.96.23.254.<br>
-    - Host D and Host C are on the same network. Since the IP for C1 is 211.191.234.75 and the subnet mask is 255.255.0.0, we have 65,534 IPs available.<br>
+    - <b>Host B</b> and <b>Host</b> A are on the same network. Since the IP for <b>B1</b> is 104.96.23.12 and the subnet mask is 255.255.255.0, I have 252 IPs available, from 104.96.23.1 to 104.96.23.254.<br>
+    - <b>Host D</b> and <b>Host C</b> are on the same network. Since the IP for <b>C1</b> is 211.191.234.75 and the subnet mask is 255.255.0.0, we have 65,534 IPs available.<br>
 </details>
 
 <details>
