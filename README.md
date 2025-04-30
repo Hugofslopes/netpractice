@@ -9,7 +9,7 @@
 
 On this project we learn how to manage some networks given different interfaces such as routers, computers, and switches.<br> 
 
-I use these videos to learn the basics of IP addresses and subnetting: [YouTube Playlist](https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared). 
+I used these youtube videos to learn the basics of IP addresses and subnetting: [YouTube Playlist](https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&feature=shared).
 
 <details>
     <summary>Level 1</summary>
