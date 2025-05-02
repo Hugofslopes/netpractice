@@ -1,11 +1,10 @@
-<html>
-  <p align="center">
-      <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png" alt="Pipex Image" />
-  </p>
-  <h1 align="center">netpractice</h1>
-  <p align="center">
-      <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" alt="Image" />
-  </p>
+<p align="center">
+    <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png" alt="Pipex Image" />
+</p>
+<h1 align="center">netpractice</h1>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/67bf6472-92d7-4e7d-8c7a-f10111bc6e28" alt="Image" />
+</p>
 
 On this project we learn how to manage some networks given different interfaces such as routers, computers, and switches.<br> 
 
@@ -84,4 +83,3 @@ The routing table on the <b>Host A</b>  does exactly the same as the one on the 
     <img src="https://github.com/user-attachments/assets/3e7a71f1-3f65-4066-94f8-a8d00b05e2b1" alt="level1"><br>
    - I start from the right top corner which I already have the IP for <b>H11</b>. I use the sub-net mask from <b>R11</b> for <b>H21</b> and <b>H11</b>. Then I go to the Internet on the left corner which I need to have has destination all the IP on the 169.237.48.0 range. The <b>R13</b>  sub-net mask is the same as <b>R21</b>. The IP for <b>R23</b> is already defined on the <b>H4</b> routing table. Then I just use the mask from <b>H41</b>. For <b>R22</b> and <b>R31</b> I use 193 and 194. On <b>R11</b> I have 128 IP reserved 0 to 127 . Then I Have 63 IP reserved on <b>H41</b> 128 to 191. The other range available will start on 193 (since we can not use the 192).<br>
 </details>
-</html>
